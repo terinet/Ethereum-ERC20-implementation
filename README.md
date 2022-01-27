@@ -7,7 +7,7 @@ Ethereum ERC20 implementation
 
 // Переслати довільну суму своїх токенів на адресу 0xc53D6C0148ddC28Efe623Ab3aD54da5C7779b25C
 
-Мови Solidity або Javascript, можна використовувати бібліотеки https://docs.openzeppelin.com/contracts/3.x/erc20 або інші 
+Мови Solidity або Javascript, можна використовувати бібліотеку https://docs.openzeppelin.com/contracts/4.x/erc20 або інші 
 
 Завантажити код контракту як pull request
 
